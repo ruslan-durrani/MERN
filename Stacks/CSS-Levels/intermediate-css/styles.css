@@ -1,0 +1,25 @@
+body{
+margin: 0;
+}
+.div_0{
+  align-content: flex-start;
+  background-color: purple;
+  justify-content: space-around;
+  height: 50px;
+  width: 50px;
+}
+.divs_1{
+  display: inline-flex;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  border: solid black 5px;
+}
+.divs_2{
+  display: flex;
+  align-content: flex-end;
+  padding: 10px;
+  background-color: green;
+  height: 50px;
+  width: 50px;
+}

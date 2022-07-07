@@ -34,7 +34,13 @@ img {
 .bitmoji {
   height: 100px
 }
+img:hover{
+  background-color: #66BFBF;
 
+}
+.circular_img{
+  border-radius: 100%;
+}
 .navs {
   width: 50%;
   text-align: center;
