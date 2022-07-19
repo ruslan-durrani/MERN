@@ -1,0 +1,20 @@
+.big-text{
+  font-size: 32px;
+  font-family: cursive;
+  color: red;
+}
+.margins{
+  margin: 100px;
+}
+.new-note{
+  margin: 20px;
+  padding:20px;
+}
+
+.bank-beauty{
+  margin: 40px;
+  border:1px solid black;
+}
+.align-data{
+  text-align: center;
+}
